@@ -1,0 +1,28 @@
+.main-display-container {
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.main-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.main-table th,
+.main-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  text-align: center;
+}
+
+.main-table th {
+  background-color: #f2f2f2;
+}
+
+.total-delivered-row {
+  text-align: right;
+  font-weight: bold;
+}
